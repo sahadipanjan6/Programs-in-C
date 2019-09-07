@@ -9,3 +9,5 @@ Below are various C programs and the solutions of them can be find in my GitHub 
 
 3. Write a program in C to determine if a given matrix (2-D array) is a SPARSE MATRIX or not. A Sparse Matrix is a matrix in which the number of zero elements is always greater than the number of non-zero elements.
 
+4. Write a C program to check whether a given integer (to be taken from the user) is a PALINDROME or not. Make use of user-defined function as and when necessary.
+
