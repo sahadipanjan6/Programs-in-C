@@ -1,2 +1,3 @@
 # Programs-in-C
 This repository contains various programming solutions in the C programming language ....
+Below are various C programs and the solutions of them can be find in my GitHub account...please search for the solutions by maintaining the question number.
