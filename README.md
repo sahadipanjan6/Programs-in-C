@@ -13,3 +13,5 @@ Below are various C programs and the solutions of them can be find in my GitHub 
 
 5. Given three points (x1,y1), (x2,y2) and (x3,y3) respectively, write a C program to check if all the three points fall on one straight line or not.
 
+6. Write a C program to check whether a given number is Odd or Even.
+
